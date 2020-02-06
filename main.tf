@@ -1,2 +1,2 @@
-resource null_resource atlantis-feature{
+resource null_resource atlantis-feat{
 }
