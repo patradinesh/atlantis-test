@@ -1,2 +1,2 @@
-resource null_resource atlantis-feat{
+resource null_resource atlantis-patch{
 }
